@@ -1,4 +1,7 @@
 <html>
+  <head>
+    <title>Devops</title>
+  </head>
 <body>
 <h2>Hello World!</h2>
 <h2>Autodeploying changes... by Juan M. Lopez</h2>
